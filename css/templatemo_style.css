@@ -71,7 +71,7 @@ nav .fa { display: block; text-align: center; margin-bottom: 13px; }
 	color: white;
 	background-color: #394665;
 }
-
+.navbar-brand{width:100%;height:auto;}
 .navbar>.container .navbar-brand { margin-left: 0; }
 .navbar-collapse .navbar-nav.navbar-right:last-child { margin-right: 0; }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background-color: #394665; }
