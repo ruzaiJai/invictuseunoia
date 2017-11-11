@@ -42,7 +42,7 @@ nav { font-size: 1.2em; font-weight: lighter; }
 nav .fa { display: block; text-align: center; margin-bottom: 13px; }
 
 .navbar {
-	background: #283147;
+	background:-webkit-linear-gradient(black, #283147,  #0020C2);
 	min-height: 85px;	
 	border-radius: 0px; 
 	border: none; 
